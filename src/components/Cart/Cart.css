@@ -1,0 +1,8 @@
+.product-container{
+display: flex;
+}
+
+.image{
+    width: 286px;
+    height: 286px;
+}
